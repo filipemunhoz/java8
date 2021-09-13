@@ -4,7 +4,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.Base64;
 import java.util.UUID;
 
-public class Exemplo1 {
+public class Base64Demo {
 	
 	public static void main(String[] args) {
 		
