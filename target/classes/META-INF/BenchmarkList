@@ -1,2 +1,0 @@
-JMH S 39 br.com.manipulacao.ManipulacaoBenchmark S 73 br.com.manipulacao.jmh_generated.ManipulacaoBenchmark_manipulacao_jmhTest S 11 manipulacao S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
-JMH S 39 br.com.manipulacao.ManipulacaoBenchmark S 81 br.com.manipulacao.jmh_generated.ManipulacaoBenchmark_manipulacaoWithJson_jmhTest S 19 manipulacaoWithJson S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 

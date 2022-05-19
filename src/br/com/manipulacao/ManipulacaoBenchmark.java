@@ -18,10 +18,10 @@ import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-@BenchmarkMode(Mode.AverageTime)
+//@BenchmarkMode(Mode.AverageTime)
 public class ManipulacaoBenchmark {
 	public static void main(String[] args) throws IOException {
-		org.openjdk.jmh.Main.main(args);
+		//org.openjdk.jmh.Main.main(args);
 	}
 	
     @Benchmark @BenchmarkMode(Mode.Throughput) @OutputTimeUnit(TimeUnit.SECONDS)
